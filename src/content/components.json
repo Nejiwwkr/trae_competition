@@ -1,0 +1,179 @@
+{
+  "明": {
+    "formula": "日 + 月",
+    "parts": [
+      { "glyph": "日", "label": "太阳", "meaning": "日光所照", "position": "left" },
+      { "glyph": "月", "label": "月亮", "meaning": "月光相接", "position": "right" }
+    ],
+    "note": "日月相合，光明乃生。一说从囧（窗）从月，月光照窗亦明。"
+  },
+  "武": {
+    "formula": "止 + 戈",
+    "parts": [
+      { "glyph": "止", "label": "足迹", "meaning": "行走、行进", "position": "left" },
+      { "glyph": "戈", "label": "兵器", "meaning": "征伐、武力", "position": "right" }
+    ],
+    "note": "象人持戈而行，会威武、征伐之意。"
+  },
+  "牧": {
+    "formula": "牛 + 攴",
+    "parts": [
+      { "glyph": "牛", "label": "牛", "meaning": "所牧之畜", "position": "left" },
+      { "glyph": "攵", "label": "手持杖", "meaning": "驱赶、管束", "position": "right" }
+    ],
+    "note": "手持杖驱牛，会放牧之意。"
+  },
+  "初": {
+    "formula": "衣 + 刀",
+    "parts": [
+      { "glyph": "衣", "label": "衣服", "meaning": "布帛之衣", "position": "left" },
+      { "glyph": "刀", "label": "刀", "meaning": "裁割之器", "position": "right" }
+    ],
+    "note": "以刀裁衣，是制衣之始，故为「开始」。"
+  },
+  "見": {
+    "formula": "目 + 人",
+    "parts": [
+      { "glyph": "目", "label": "眼睛", "meaning": "视觉所出", "position": "top" },
+      { "glyph": "人", "label": "人", "meaning": "人之形体", "position": "bottom" }
+    ],
+    "note": "人顶一目，突出眼睛，会「看见」之意。"
+  },
+  "北": {
+    "formula": "人 + 人",
+    "parts": [
+      { "glyph": "人", "label": "人（向左）", "meaning": "一人背向", "position": "left" },
+      { "glyph": "人", "label": "人（向右）", "meaning": "一人背向", "position": "right" }
+    ],
+    "note": "二人背对背，会相背之意，本义为「背」，后假借为南北之北。"
+  },
+  "男": {
+    "formula": "田 + 力",
+    "parts": [
+      { "glyph": "田", "label": "田地", "meaning": "耕作之处", "position": "top" },
+      { "glyph": "力", "label": "耒", "meaning": "农具、出力", "position": "bottom" }
+    ],
+    "note": "男子在田间耕作，会「男子」之意。"
+  },
+  "比": {
+    "formula": "人 + 人",
+    "parts": [
+      { "glyph": "人", "label": "人（向左）", "meaning": "一人并立", "position": "left" },
+      { "glyph": "人", "label": "人（向右）", "meaning": "一人并立", "position": "right" }
+    ],
+    "note": "二人并立相亲比，会并列、密比之意。"
+  },
+  "春": {
+    "formula": "艸 + 屯 + 日",
+    "parts": [
+      { "glyph": "艹", "label": "草木", "meaning": "春日萌生", "position": "top" },
+      { "glyph": "屯", "label": "初生", "meaning": "草木破土，兼表音", "position": "inside" },
+      { "glyph": "日", "label": "太阳", "meaning": "春阳暖照", "position": "bottom" }
+    ],
+    "note": "从艸从日、屯声，象春日阳光下草木萌生。"
+  },
+  "為": {
+    "formula": "爪 + 象",
+    "parts": [
+      { "glyph": "爪", "label": "手", "meaning": "以手牵引", "position": "top" },
+      { "glyph": "象", "label": "大象", "meaning": "役使的对象", "position": "bottom" }
+    ],
+    "note": "甲骨文以手牵象，会役象劳作之意，本义为「作为」。"
+  },
+  "福": {
+    "formula": "示 + 畐",
+    "parts": [
+      { "glyph": "礻", "label": "祭坛", "meaning": "祭祀、神灵", "position": "left" },
+      { "glyph": "畐", "label": "满溢之器", "meaning": "丰足，兼表音", "position": "right" }
+    ],
+    "note": "从示畐声，本指祭神所得的福祐。"
+  },
+  "念": {
+    "formula": "今 + 心",
+    "parts": [
+      { "glyph": "今", "label": "今", "meaning": "当下、含于心，兼表音", "position": "top" },
+      { "glyph": "心", "label": "心", "meaning": "思念所出", "position": "bottom" }
+    ],
+    "note": "从心今声，久久存于心中的思念。"
+  },
+  "城": {
+    "formula": "土 + 成",
+    "parts": [
+      { "glyph": "土", "label": "土", "meaning": "筑墙之材", "position": "left" },
+      { "glyph": "成", "label": "成", "meaning": "成就、兼表音", "position": "right" }
+    ],
+    "note": "从土从成、成亦声，指都邑四周用以盛民的墙垣。"
+  },
+  "道": {
+    "formula": "辵 + 首",
+    "parts": [
+      { "glyph": "首", "label": "头 / 所向", "meaning": "行走所向，兼表音", "position": "inside" },
+      { "glyph": "辶", "label": "行走", "meaning": "路途、行进", "position": "outside" }
+    ],
+    "note": "从辵首声；一说首行于途，会道路之意。"
+  },
+  "過": {
+    "formula": "辵 + 冎",
+    "parts": [
+      { "glyph": "冎", "label": "冎", "meaning": "提示读音", "position": "inside" },
+      { "glyph": "辶", "label": "行走", "meaning": "经过、越过", "position": "outside" }
+    ],
+    "note": "从辵冎声，本义为经过。"
+  },
+  "璧": {
+    "formula": "辟 + 玉",
+    "parts": [
+      { "glyph": "辟", "label": "辟", "meaning": "提示读音", "position": "top" },
+      { "glyph": "玉", "label": "玉", "meaning": "玉质瑞器", "position": "bottom" }
+    ],
+    "note": "从玉辟声，指扁圆有孔的瑞玉。"
+  },
+  "環": {
+    "formula": "王 + 睘",
+    "parts": [
+      { "glyph": "王", "label": "玉", "meaning": "玉质器物", "position": "left" },
+      { "glyph": "睘", "label": "睘", "meaning": "提示读音", "position": "right" }
+    ],
+    "note": "从玉睘声，指边宽与孔径相当的圆形玉佩。"
+  },
+  "賞": {
+    "formula": "尚 + 貝",
+    "parts": [
+      { "glyph": "尚", "label": "尚", "meaning": "提示读音", "position": "top" },
+      { "glyph": "貝", "label": "贝", "meaning": "财物", "position": "bottom" }
+    ],
+    "note": "从貝尚声，以财物奖赏有功者。"
+  },
+  "賜": {
+    "formula": "貝 + 易",
+    "parts": [
+      { "glyph": "貝", "label": "贝", "meaning": "古代财货", "position": "left" },
+      { "glyph": "易", "label": "易", "meaning": "提示读音", "position": "right" }
+    ],
+    "note": "从貝易声，上对下的赏赐。"
+  },
+  "湛": {
+    "formula": "氵 + 甚",
+    "parts": [
+      { "glyph": "氵", "label": "水", "meaning": "水名、水深", "position": "left" },
+      { "glyph": "甚", "label": "甚", "meaning": "提示读音", "position": "right" }
+    ],
+    "note": "从水甚声，本为湛水专名，又有深厚、清澈等引申义。"
+  },
+  "沈": {
+    "formula": "氵 + 冘",
+    "parts": [
+      { "glyph": "氵", "label": "水", "meaning": "沉没于水", "position": "left" },
+      { "glyph": "冘", "label": "冘", "meaning": "提示读音", "position": "right" }
+    ],
+    "note": "从水冘声，本义为沉没于水中。"
+  },
+  "雞": {
+    "formula": "奚 + 隹",
+    "parts": [
+      { "glyph": "奚", "label": "奚", "meaning": "提示读音", "position": "left" },
+      { "glyph": "隹", "label": "鸟", "meaning": "短尾鸟", "position": "right" }
+    ],
+    "note": "从隹奚声，知时报晓的家禽。"
+  }
+}

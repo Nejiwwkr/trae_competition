@@ -1,3 +1,9 @@
 .idea/
 .git/
 .vscode/
+node_modules/
+dist/
+public/data/
+.DS_Store
+*.local
+*.log

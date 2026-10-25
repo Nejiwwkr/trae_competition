@@ -1,0 +1,542 @@
+{
+  "人": {
+    "examples": [
+      { "sentence": "教室里坐满了人。", "sense": "本义：人类；人", "note": "对应义项 1" },
+      { "sentence": "待人接物要真诚。", "sense": "引申义：他人；别人", "note": "对应义项 2" },
+      { "sentence": "他是这一行里难得的人才。", "sense": "引申义：人的材智、品级", "note": "对应义项 3" }
+    ],
+    "warning": "「人」作偏旁时写作「亻」；注意与「入」区分。",
+    "generated": false
+  },
+  "水": {
+    "examples": [
+      { "sentence": "山间的水清澈见底。", "sense": "本义：水；河流之水", "note": "对应义项 1" },
+      { "sentence": "洪水退去后，村里一片狼藉。", "sense": "引申义：洪水；大水", "note": "对应义项 2" },
+      { "sentence": "上善若水，水利万物而不争。", "sense": "引申义：喻柔德；滋养万物而不争", "note": "对应义项 3" }
+    ],
+    "warning": "「水」作左偏旁时写作「氵」，共三笔。",
+    "generated": false
+  },
+  "日": {
+    "examples": [
+      { "sentence": "日出东方，天渐渐亮了。", "sense": "本义：太阳", "note": "对应义项 1" },
+      { "sentence": "我们白天赶路，晚上休息。", "sense": "引申义：白天", "note": "对应义项 2" },
+      { "sentence": "他每日读书一小时。", "sense": "引申义：每日；一天一天地", "note": "对应义项 3" }
+    ],
+    "warning": "「日」与「曰」形近：前者瘦长，后者扁宽。",
+    "generated": false
+  },
+  "月": {
+    "examples": [
+      { "sentence": "今晚的月亮又圆又亮。", "sense": "本义：月亮", "note": "对应义项 1" },
+      { "sentence": "这个月的工作已经完成。", "sense": "引申义：月份", "note": "对应义项 2" },
+      { "sentence": "月光洒在湖面上。", "sense": "引申义：月光", "note": "对应义项 3" }
+    ],
+    "warning": "「月」作偏旁有时来自「肉」（如「服、胖」），不能都按月亮理解。",
+    "generated": false
+  },
+  "火": {
+    "examples": [
+      { "sentence": "篝火在夜风中跳动。", "sense": "本义：火；物体燃烧之光焰", "note": "对应义项 1" },
+      { "sentence": "这场火灾烧毁了整座仓库。", "sense": "引申义：火灾", "note": "对应义项 2" },
+      { "sentence": "七月流火，天气渐凉。", "sense": "假借义：星名，大火（心宿二）", "note": "对应义项 3" }
+    ],
+    "warning": "「火」作字底时常写作「灬」，如「热、煮」。",
+    "generated": false
+  },
+  "木": {
+    "examples": [
+      { "sentence": "山坡上长满了树木。", "sense": "本义：树木", "note": "对应义项 1" },
+      { "sentence": "这批木料可以做家具。", "sense": "引申义：木材；木料", "note": "对应义项 2" },
+      { "sentence": "他反应有点木，半天没明白。", "sense": "引申义：质朴；反应迟钝", "note": "对应义项 3" }
+    ],
+    "warning": "「木」与「本」「末」只差一笔，注意横画的位置。",
+    "generated": false
+  },
+  "山": {
+    "examples": [
+      { "sentence": "远处的山峦连绵起伏。", "sense": "本义：山；山岳", "note": "对应义项 1" },
+      { "sentence": "帝王的陵寝依山而建。", "sense": "引申义：山陵；陵寝", "note": "对应义项 2" },
+      { "sentence": "这座山海拔三千米。", "sense": "本义：山；山岳", "note": "对应义项 1" }
+    ],
+    "warning": "「山」作左偏旁时字形变窄，如「峰、岭」。",
+    "generated": false
+  },
+  "心": {
+    "examples": [
+      { "sentence": "跑步之后，心跳得很快。", "sense": "本义：心脏", "note": "对应义项 1" },
+      { "sentence": "他今天心情很好。", "sense": "引申义：心思；心情", "note": "对应义项 2" },
+      { "sentence": "用心思考，才能发现问题。", "sense": "引申义：思维器官；思考", "note": "对应义项 3" }
+    ],
+    "warning": "「心」作左偏旁时写作「忄」，作字底仍写「心」。",
+    "generated": false
+  },
+  "馬": {
+    "examples": [
+      { "sentence": "牧民骑着马在草原上奔跑。", "sense": "本义：马；家畜马", "note": "对应义项 1" },
+      { "sentence": "古代贵族出行，车马成群。", "sense": "引申义：车马；代指资财用度", "note": "对应义项 2" },
+      { "sentence": "战马嘶鸣，旌旗猎猎。", "sense": "引申义：战马；车骑", "note": "对应义项 3" }
+    ],
+    "warning": "简体「马」与繁体「馬」对应，作偏旁时简化为「马」，如「骑、驾」。",
+    "generated": false
+  },
+  "牛": {
+    "examples": [
+      { "sentence": "田里有一头牛在吃草。", "sense": "本义：牛；家畜牛", "note": "对应义项 1" },
+      { "sentence": "牵牛星与织女星隔河相望。", "sense": "引申义：牵牛星", "note": "对应义项 2" },
+      { "sentence": "这么小的事，不必用牛刀。", "sense": "引申义：喻大材，如「牛刀」", "note": "对应义项 3" }
+    ],
+    "warning": "「牛」作左偏旁时写作「牜」，如「牧、物」。",
+    "generated": false
+  },
+  "犬": {
+    "examples": [
+      { "sentence": "这只犬很温顺。", "sense": "本义：狗", "note": "对应义项 1" },
+      { "sentence": "犬子不成器，让您见笑了。", "sense": "引申义：对己子之谦称「犬子」", "note": "对应义项 2" },
+      { "sentence": "愿效犬马之劳。", "sense": "引申义：自谦之词「犬马」", "note": "对应义项 3" }
+    ],
+    "warning": "「犬」作左偏旁时写作「犭」，如「狗、猫」。",
+    "generated": false
+  },
+  "貝": {
+    "examples": [
+      { "sentence": "沙滩上散落着许多贝壳。", "sense": "本义：海贝；贝壳", "note": "对应义项 1" },
+      { "sentence": "古代以贝为货币。", "sense": "引申义：货币；财货", "note": "对应义项 3" },
+      { "sentence": "青铜器上饰有贝纹。", "sense": "引申义：贝纹锦饰", "note": "对应义项 2" }
+    ],
+    "warning": "简体「贝」与繁体「貝」对应；贝部字多与财物有关。",
+    "generated": false
+  },
+  "玉": {
+    "examples": [
+      { "sentence": "这块玉温润通透。", "sense": "本义：温润而有光泽的美石", "note": "对应义项 1" },
+      { "sentence": "君子比德于玉。", "sense": "引申义：美德；君子之德的象征", "note": "对应义项 2" },
+      { "sentence": "他珍藏着一块祖传的玉。", "sense": "本义：温润而有光泽的美石", "note": "对应义项 1" }
+    ],
+    "warning": "「玉」作左偏旁时写作「王」（末横上扬），与「王」字不同。",
+    "generated": false
+  },
+  "衣": {
+    "examples": [
+      { "sentence": "她穿了一件素色的上衣。", "sense": "本义：上衣", "note": "对应义项 1" },
+      { "sentence": "天气转凉，记得添衣。", "sense": "引申义：衣服之统称", "note": "对应义项 2" },
+      { "sentence": "衣锦还乡，是古人的荣耀。", "sense": "引申义：穿（衣），读 yì", "note": "对应义项 3" }
+    ],
+    "warning": "「衣」作左偏旁时写作「衤」，与「礻」（示）不同。",
+    "generated": false
+  },
+  "女": {
+    "examples": [
+      { "sentence": "那位女子正在河边洗衣。", "sense": "本义：女子；妇女", "note": "对应义项 1" },
+      { "sentence": "女儿今年考上了大学。", "sense": "引申义：女儿", "note": "对应义项 3" },
+      { "sentence": "女子能顶半边天。", "sense": "本义：女子；妇女", "note": "对应义项 1" }
+    ],
+    "warning": "「女」作左偏旁时字形变窄，如「好、姓」；通「汝」是古用法。",
+    "generated": false
+  },
+  "雨": {
+    "examples": [
+      { "sentence": "窗外下起了小雨。", "sense": "本义：雨；下雨之物", "note": "对应义项 1" },
+      { "sentence": "雨后的空气很清新。", "sense": "本义：雨；下雨之物", "note": "对应义项 1" },
+      { "sentence": "梅雨季节，衣物容易受潮。", "sense": "本义：雨；下雨之物", "note": "对应义项 1" }
+    ],
+    "warning": "「雨」作动词表示「降落」时读 yù，现代少用；注意与「两」区分。",
+    "generated": false
+  },
+  "車": {
+    "examples": [
+      { "sentence": "一辆车停在门口。", "sense": "本义：车；陆上交通运载工具", "note": "对应义项 1" },
+      { "sentence": "古代战车是重要的作战装备。", "sense": "引申义：战车；兵车编制", "note": "对应义项 2" },
+      { "sentence": "辅车相依，唇亡齿寒。", "sense": "假借义：牙床；辅车，读 jū", "note": "对应义项 3" }
+    ],
+    "warning": "读 chē 指车辆；「辅车」中的「车」读 jū，指牙床。",
+    "generated": false
+  },
+  "食": {
+    "examples": [
+      { "sentence": "餐桌上的食物很丰盛。", "sense": "本义：食物", "note": "对应义项 1" },
+      { "sentence": "我们一日三餐，按时进食。", "sense": "引申义：吃（动词）", "note": "对应义项 2" },
+      { "sentence": "他靠自己的劳动自食其力。", "sense": "引申义：吃（动词）", "note": "对应义项 2" }
+    ],
+    "warning": "读 shí 多为名词或「吃」；读 sì 表示「给……吃」，如「食马者」。",
+    "generated": false
+  },
+  "行": {
+    "examples": [
+      { "sentence": "行人请走人行道。", "sense": "本义：道路", "note": "对应义项 1" },
+      { "sentence": "我们步行去公园。", "sense": "引申义：行走；出行", "note": "对应义项 2" },
+      { "sentence": "他在这行干了十年。", "sense": "假借义：行列、行业，读 háng", "note": "对应义项 3" }
+    ],
+    "warning": "读 xíng 表示行走、行为；读 háng 表示行列、行业；读 xìng 用于德行、品行（书面语）。",
+    "generated": false
+  },
+  "樂": {
+    "examples": [
+      { "sentence": "音乐让人心情平静。", "sense": "本义：乐器；音乐，读 yuè", "note": "对应义项 1" },
+      { "sentence": "孩子们在草地上快乐地奔跑。", "sense": "引申义：喜悦；快乐，读 lè", "note": "对应义项 2" },
+      { "sentence": "仁者乐山，智者乐水。", "sense": "假借义：爱好；喜好，读 yào", "note": "对应义项 3" }
+    ],
+    "warning": "读 yuè 指音乐，读 lè 指快乐，读 yào 表示爱好（如「仁者乐山」）。",
+    "generated": false
+  },
+  "王": {
+    "examples": [
+      { "sentence": "古代的王位由嫡长子继承。", "sense": "本义：天子；君主", "note": "对应义项 1" },
+      { "sentence": "他立志要王天下。", "sense": "引申义：称王；统治天下，读 wàng", "note": "对应义项 2" },
+      { "sentence": "这位王爷权势很大。", "sense": "引申义：秦汉以后最高封爵", "note": "对应义项 3" }
+    ],
+    "warning": "读 wáng 指君王或封爵；读 wàng 表示称王、统治，属书面语。",
+    "generated": false
+  },
+  "上": {
+    "examples": [
+      { "sentence": "桌子上放着一本书。", "sense": "本义：位置在上；上面", "note": "对应义项 1" },
+      { "sentence": "上有政策，下有对策。", "sense": "引申义：君主；在上位的人", "note": "对应义项 2" },
+      { "sentence": "上古时期，人们以采集为生。", "sense": "引申义：时间在先的；久远的", "note": "对应义项 3" }
+    ],
+    "warning": "「上」与「下」都是指事字，注意与「止」区分。",
+    "generated": false
+  },
+  "下": {
+    "examples": [
+      { "sentence": "椅子下面有一只猫。", "sense": "本义：位置在下；下面", "note": "对应义项 1" },
+      { "sentence": "他出身下层，深知民间疾苦。", "sense": "引申义：在下位的人；地位低", "note": "对应义项 2" },
+      { "sentence": "下一步我们该怎么做？", "sense": "引申义：次序靠后的", "note": "对应义项 3" }
+    ],
+    "warning": "「下」与「上」相对，不要写成「卞」。",
+    "generated": false
+  },
+  "中": {
+    "examples": [
+      { "sentence": "湖心亭在湖的中央。", "sense": "本义：中央；中心", "note": "对应义项 1" },
+      { "sentence": "他的成绩在班里居中游。", "sense": "引申义：两端之间；一半", "note": "对应义项 2" },
+      { "sentence": "这一箭正中靶心。", "sense": "假借义：切中；符合，读 zhòng", "note": "对应义项 3" }
+    ],
+    "warning": "读 zhōng 表示中间；读 zhòng 表示命中、符合，如「中奖」「中肯」。",
+    "generated": false
+  },
+  "亦": {
+    "examples": [
+      { "sentence": "人云亦云，不是独立思考。", "sense": "假借义：副词，也；也是", "note": "对应义项 2" },
+      { "sentence": "他亦步亦趋地跟在后面。", "sense": "假借义：副词，也；也是", "note": "对应义项 2" },
+      { "sentence": "亦师亦友，是最好的关系。", "sense": "假借义：副词，也；也是", "note": "对应义项 2" }
+    ],
+    "warning": "「亦」本义是腋下，现代主要作副词「也」；不要写成「赤」。",
+    "generated": false
+  },
+  "一": {
+    "examples": [
+      { "sentence": "他一个人完成了全部工作。", "sense": "本义：数词，一个", "note": "对应义项 1" },
+      { "sentence": "六国统一于秦。", "sense": "引申义：统一；使归于一", "note": "对应义项 2" },
+      { "sentence": "道生一，一生二。", "sense": "引申义：整体之道", "note": "对应义项 3" }
+    ],
+    "warning": "「一」在去声字前读 yí（如「一个」），在阴平、阳平、上声前读 yì（如「一天」）。",
+    "generated": false
+  },
+  "二": {
+    "examples": [
+      { "sentence": "二加二等于四。", "sense": "本义：数词，二", "note": "对应义项 1" },
+      { "sentence": "他做事从不三心二意。", "sense": "引申义：不专一；三心二意", "note": "对应义项 2" },
+      { "sentence": "这是第二章的内容。", "sense": "本义：数词，二（序数）", "note": "对应义项 1" }
+    ],
+    "warning": "「二」与「两」用法有别：量词前通常用「两」，序数用「二」。",
+    "generated": false
+  },
+  "八": {
+    "examples": [
+      { "sentence": "他有八个兄弟姐妹。", "sense": "假借义：数词，八", "note": "对应义项 2" },
+      { "sentence": "四面八方的人都来赶集。", "sense": "引申义：八方；泛指多方面", "note": "对应义项 3" },
+      { "sentence": "八仙过海，各显神通。", "sense": "假借义：数词，八", "note": "对应义项 2" }
+    ],
+    "warning": "「八」古字本义为分别，现代主要用作数字；注意与「入」区分。",
+    "generated": false
+  },
+  "十": {
+    "examples": [
+      { "sentence": "十全十美很难做到。", "sense": "本义：数词，十", "note": "对应义项 1" },
+      { "sentence": "他考了九十分。", "sense": "本义：数词，十", "note": "对应义项 1" },
+      { "sentence": "十拿九稳，放心去办吧。", "sense": "本义：数词，十", "note": "对应义项 1" }
+    ],
+    "warning": "「十」古代通「什」，表示十分之一，现代多用「十」。",
+    "generated": false
+  },
+  "小": {
+    "examples": [
+      { "sentence": "这只小猫很可爱。", "sense": "本义：微小；细碎", "note": "对应义项 1" },
+      { "sentence": "小人得志，君子道消。", "sense": "引申义：小人；德薄者", "note": "对应义项 2" },
+      { "sentence": "他从小就很懂事。", "sense": "引申义：年幼者；晚辈", "note": "对应义项 3" }
+    ],
+    "warning": "「小」作字头时有时写作「⺌」，如「尖、尘」。",
+    "generated": false
+  },
+  "曰": {
+    "examples": [
+      { "sentence": "子曰：「学而时习之。」", "sense": "本义：说；说道", "note": "对应义项 1" },
+      { "sentence": "诗曰：「关关雎鸠。」", "sense": "本义：说；说道", "note": "对应义项 1" },
+      { "sentence": "这个字是「曰」，不是「日」。", "sense": "引申义：叫做；称为", "note": "对应义项 2" }
+    ],
+    "warning": "「曰」与「日」形近：前者扁宽，后者瘦长。",
+    "generated": false
+  },
+  "明": {
+    "examples": [
+      { "sentence": "月光照亮了庭院。", "sense": "本义：光明；明亮", "note": "对应义项 1" },
+      { "sentence": "他是个明白人，一点就透。", "sense": "引申义：明智；看清", "note": "对应义项 2" },
+      { "sentence": "明日一早出发。", "sense": "引申义：次；第二天的", "note": "对应义项 3" }
+    ],
+    "warning": "「明」由日、月组成，左边是「日」，不是「目」。",
+    "generated": false
+  },
+  "武": {
+    "examples": [
+      { "sentence": "止戈为武，真正的武力在于止战。", "sense": "本义：勇武；征伐", "note": "对应义项 1" },
+      { "sentence": "他身手武勇，力大过人。", "sense": "引申义：威猛有力", "note": "对应义项 2" },
+      { "sentence": "周武王伐纣，建立周朝。", "sense": "引申义：专名，周武王", "note": "对应义项 3" }
+    ],
+    "warning": "「止戈为武」是后起的解释之一，古文字从止从戈，本义与征伐有关。",
+    "generated": false
+  },
+  "牧": {
+    "examples": [
+      { "sentence": "牧民赶着羊群去牧场。", "sense": "本义：放牧；牧场", "note": "对应义项 1" },
+      { "sentence": "古代州牧掌管一方军政。", "sense": "引申义：牧官；州牧", "note": "对应义项 3" },
+      { "sentence": "他牧守一方，颇有政声。", "sense": "引申义：治理；牧养民众", "note": "对应义项 2" }
+    ],
+    "warning": "「牧」从牛从攵，注意右边是「攵」不是「夂」。",
+    "generated": false
+  },
+  "初": {
+    "examples": [
+      { "sentence": "初春的早晨还有些冷。", "sense": "本义：开始；起初", "note": "对应义项 1" },
+      { "sentence": "当初我们约定在这里见面。", "sense": "引申义：当初；追叙往事", "note": "对应义项 2" },
+      { "sentence": "他初次登台，难免紧张。", "sense": "引申义：事件之初段；刚刚", "note": "对应义项 3" }
+    ],
+    "warning": "「初」从衣从刀，左边是「衤」，不是「礻」。",
+    "generated": false
+  },
+  "見": {
+    "examples": [
+      { "sentence": "我看见了远处的灯塔。", "sense": "本义：看见；看到", "note": "对应义项 1" },
+      { "sentence": "他今天去进见领导。", "sense": "引申义：谒见；进见", "note": "对应义项 2" },
+      { "sentence": "图穷匕见，真相终于显露。", "sense": "假借义：出现；显现，读 xiàn", "note": "对应义项 3" }
+    ],
+    "warning": "读 jiàn 表示看见；读 xiàn 表示显现，后作「现」。",
+    "generated": false
+  },
+  "北": {
+    "examples": [
+      { "sentence": "北方的冬天很冷。", "sense": "假借义：方位，南北之北", "note": "对应义项 2" },
+      { "sentence": "敌军败北而逃。", "sense": "本义：相背；败逃", "note": "对应义项 1" },
+      { "sentence": "他坐在北窗下读书。", "sense": "假借义：方位，南北之北", "note": "对应义项 2" }
+    ],
+    "warning": "「北」本义是二人相背，现代主要表示方位；「败北」保留本义。",
+    "generated": false
+  },
+  "男": {
+    "examples": [
+      { "sentence": "那个男孩是我的邻居。", "sense": "本义：男子；男人", "note": "对应义项 1" },
+      { "sentence": "古代爵位有公、侯、伯、子、男。", "sense": "引申义：男爵", "note": "对应义项 2" },
+      { "sentence": "男女平等是基本国策。", "sense": "本义：男子；男人", "note": "对应义项 1" }
+    ],
+    "warning": "「男」从田从力，不是「田」加「刀」。",
+    "generated": false
+  },
+  "令": {
+    "examples": [
+      { "sentence": "上级下令立即撤军。", "sense": "本义：发布命令；命令", "note": "对应义项 1" },
+      { "sentence": "县令亲自审理此案。", "sense": "引申义：官名，县令", "note": "对应义项 2" },
+      { "sentence": "他令名远播，受人敬重。", "sense": "假借义：美好（令闻、令望）", "note": "对应义项 3" }
+    ],
+    "warning": "「令」作偏旁时注意与「今」区分，如「念」下部是「心」。",
+    "generated": false
+  },
+  "比": {
+    "examples": [
+      { "sentence": "这两件衣服比一比就知道好坏。", "sense": "引申义：比较；较量", "note": "对应义项 3" },
+      { "sentence": "他们比肩而立，共同进退。", "sense": "本义：并列；编组相邻", "note": "对应义项 1" },
+      { "sentence": "不要与人攀比。", "sense": "引申义：比较；较量", "note": "对应义项 3" }
+    ],
+    "warning": "「比」与「北」都像两个人，但「比」同向并立，「北」相背。",
+    "generated": false
+  },
+  "春": {
+    "examples": [
+      { "sentence": "春天来了，柳树发芽。", "sense": "本义：春季；春天", "note": "对应义项 1" },
+      { "sentence": "他正值青春，充满活力。", "sense": "引申义：春心；情爱（青春）", "note": "对应义项 2" },
+      { "sentence": "孔子作《春秋》，寓褒贬于一字。", "sense": "假借义：史书专名《春秋》", "note": "对应义项 3" }
+    ],
+    "warning": "「春」下部是「日」，不是「目」。",
+    "generated": false
+  },
+  "為": {
+    "examples": [
+      { "sentence": "他这样做是为了大家好。", "sense": "假借义：介词，为了，读 wèi", "note": "对应义项 3" },
+      { "sentence": "他为人正直，乐于助人。", "sense": "本义：做；干（为人）", "note": "对应义项 1" },
+      { "sentence": "他成为一名医生。", "sense": "引申义：充当；是", "note": "对应义项 2" }
+    ],
+    "warning": "读 wéi 表示做、成为；读 wèi 表示为了、替。",
+    "generated": false
+  },
+  "走": {
+    "examples": [
+      { "sentence": "他一路小跑，追赶前面的车。", "sense": "本义：跑；奔跑", "note": "对应义项 1" },
+      { "sentence": "敌军败走，退守城中。", "sense": "引申义：逃亡；败走", "note": "对应义项 2" },
+      { "sentence": "别走开，我马上回来。", "sense": "现代用法：步行、离开", "note": "与古义「跑」不同" }
+    ],
+    "warning": "古汉语「走」是跑，「行」才是走；现代「走」已改指步行。",
+    "generated": false
+  },
+  "漢": {
+    "examples": [
+      { "sentence": "汉水是长江的重要支流。", "sense": "本义：汉水（水名）", "note": "对应义项 1" },
+      { "sentence": "星河灿烂，古人称之为天汉。", "sense": "引申义：天河；银河", "note": "对应义项 2" },
+      { "sentence": "汉字是中华文化的重要载体。", "sense": "引申义：朝代；族称", "note": "对应义项 3" }
+    ],
+    "warning": "简体「汉」与繁体「漢」对应；不要与「汗」混淆。",
+    "generated": false
+  },
+  "沈": {
+    "examples": [
+      { "sentence": "沈先生是这次项目的负责人。", "sense": "假借义：姓氏，读 shěn", "note": "对应义项 3" },
+      { "sentence": "沈阳是辽宁省的省会。", "sense": "假借义：地名", "note": "对应义项 3" },
+      { "sentence": "古籍中的「沈」常表示沉没。", "sense": "本义：沉没；沈伏", "note": "对应义项 1" }
+    ],
+    "warning": "现代表示「沉没」通常写「沉」；「沈」主要用作姓氏和地名，读 shěn。",
+    "generated": false
+  },
+  "湛": {
+    "examples": [
+      { "sentence": "湖水清澈湛蓝。", "sense": "本义：水深；清澈", "note": "对应义项 1" },
+      { "sentence": "他学问湛深，令人敬佩。", "sense": "本义：水深；深厚", "note": "对应义项 1" },
+      { "sentence": "湛江是广东的沿海城市。", "sense": "假借义：地名", "note": "对应义项 2" }
+    ],
+    "warning": "读 zhàn 表示清澈、深厚；读 dān 通「耽」表安乐，现代少用。",
+    "generated": false
+  },
+  "璧": {
+    "examples": [
+      { "sentence": "这件玉璧是博物馆的镇馆之宝。", "sense": "本义：扁圆而有孔的瑞玉", "note": "对应义项 1" },
+      { "sentence": "完璧归赵的故事流传千古。", "sense": "引申义：祭天聘享之礼器", "note": "对应义项 2" },
+      { "sentence": "白璧微瑕，仍不失为美玉。", "sense": "本义：扁圆而有孔的瑞玉", "note": "对应义项 1" }
+    ],
+    "warning": "「璧」下部是「玉」，不要写成「壁」（墙壁）。",
+    "generated": false
+  },
+  "環": {
+    "examples": [
+      { "sentence": "她戴着一只玉环。", "sense": "本义：圆形有孔的玉佩", "note": "对应义项 1" },
+      { "sentence": "血液在体内循环。", "sense": "引申义：圆环之中；循环", "note": "对应义项 2" },
+      { "sentence": "群山环抱，风景秀丽。", "sense": "引申义：环绕", "note": "现代常用引申" }
+    ],
+    "warning": "简体「环」与繁体「環」对应；注意与「坏」区分。",
+    "generated": false
+  },
+  "賜": {
+    "examples": [
+      { "sentence": "古代皇帝赐给他一座宅邸。", "sense": "本义：上对下的给予；赏赐", "note": "对应义项 1" },
+      { "sentence": "感谢您的赐教。", "sense": "本义：上对下的给予；敬辞", "note": "对应义项 1" },
+      { "sentence": "孔子弟子端木赐，字子贡。", "sense": "假借义：人名用字", "note": "对应义项 2" }
+    ],
+    "warning": "「赐」用于上对下的给予；平辈之间用「给」「送」更自然。",
+    "generated": false
+  },
+  "賞": {
+    "examples": [
+      { "sentence": "公司赏罚分明，员工心服口服。", "sense": "本义：奖赏有功者", "note": "对应义项 1" },
+      { "sentence": "我们一起赏月吧。", "sense": "引申义：欣赏；赏识", "note": "对应义项 2" },
+      { "sentence": "他因表现出色受到赏识。", "sense": "引申义：欣赏；赏识", "note": "对应义项 2" }
+    ],
+    "warning": "「赏」与「常」「掌」同有「尚」旁，注意下部是「贝」。",
+    "generated": false
+  },
+  "福": {
+    "examples": [
+      { "sentence": "新年到，家家贴福字。", "sense": "引申义：幸福；与祸相对", "note": "对应义项 2" },
+      { "sentence": "祈福是古老的民俗。", "sense": "本义：神之护佑；福佑", "note": "对应义项 1" },
+      { "sentence": "他因祸得福，反而升了职。", "sense": "引申义：幸福；与祸相对", "note": "对应义项 2" }
+    ],
+    "warning": "「福」左边是「礻」（示），不是「衤」（衣）。",
+    "generated": false
+  },
+  "何": {
+    "examples": [
+      { "sentence": "你为何迟到？", "sense": "假借义：疑问代词，为什么", "note": "对应义项 2" },
+      { "sentence": "此事有何不可？", "sense": "假借义：疑问代词，什么", "note": "对应义项 2" },
+      { "sentence": "何去何从，需要早做决定。", "sense": "假借义：疑问代词，哪里、什么", "note": "对应义项 2" }
+    ],
+    "warning": "「何」本义是扛、担，后借为疑问代词；不要与「河」混淆。",
+    "generated": false
+  },
+  "念": {
+    "examples": [
+      { "sentence": "我很想念远方的家人。", "sense": "本义：思念；怀念", "note": "对应义项 1" },
+      { "sentence": "他念念不忘那次旅行。", "sense": "引申义：惦念；不忘", "note": "对应义项 2" },
+      { "sentence": "他念完大学就回乡工作了。", "sense": "现代用法：读书、念诵", "note": "现代常用引申" }
+    ],
+    "warning": "「念」上部是「今」不是「令」，下部是「心」。",
+    "generated": false
+  },
+  "道": {
+    "examples": [
+      { "sentence": "这条山道很窄。", "sense": "本义：道路", "note": "对应义项 1" },
+      { "sentence": "他有一套自己的处世之道。", "sense": "引申义：途径；方法；法则", "note": "对应义项 2" },
+      { "sentence": "道家思想影响深远。", "sense": "引申义：思想学说；政治主张", "note": "对应义项 3" }
+    ],
+    "warning": "读 dào 表示道路、道理；读 dǎo 表示引导，后作「导」。",
+    "generated": false
+  },
+  "過": {
+    "examples": [
+      { "sentence": "我们走过一座小桥。", "sense": "本义：经过；走过", "note": "对应义项 1" },
+      { "sentence": "他的成绩超过了我。", "sense": "引申义：超过；胜过", "note": "对应义项 2" },
+      { "sentence": "有过则改，善莫大焉。", "sense": "引申义：过失；错误", "note": "对应义项 3" }
+    ],
+    "warning": "读 guò 表示经过、过分；读 guō 用于古国名、姓氏。",
+    "generated": false
+  },
+  "陸": {
+    "examples": [
+      { "sentence": "他们终于登上了陆地。", "sense": "本义：高而平的陆地", "note": "对应义项 1" },
+      { "sentence": "这是一支陆军部队。", "sense": "引申义：旱地；与水相对", "note": "对应义项 2" },
+      { "sentence": "大陆与台湾隔海相望。", "sense": "引申义：陆地", "note": "对应义项 1" }
+    ],
+    "warning": "读 lù 表示陆地；读 liù 是数字「六」的大写。",
+    "generated": false
+  },
+  "城": {
+    "examples": [
+      { "sentence": "这座古城已有千年历史。", "sense": "本义：筑城；城垣", "note": "对应义项 1" },
+      { "sentence": "城市里的生活节奏很快。", "sense": "引申义：城市；都邑", "note": "对应义项 2" },
+      { "sentence": "敌军攻城三日，未能得手。", "sense": "引申义：攻城（动词）", "note": "对应义项 3" }
+    ],
+    "warning": "「城」从土从成，不要与「诚」（言字旁）混淆。",
+    "generated": false
+  },
+  "雞": {
+    "examples": [
+      { "sentence": "农家院里养着几只鸡。", "sense": "本义：家鸡", "note": "对应义项 1" },
+      { "sentence": "鸡鸣即起，是古人的作息。", "sense": "引申义：司晨报时", "note": "对应义项 2" },
+      { "sentence": "他属鸡，今年是本命年。", "sense": "本义：家鸡（生肖）", "note": "对应义项 1" }
+    ],
+    "warning": "简体「鸡」与繁体「雞」对应；简体左边是「又」，不是「奚」。",
+    "generated": false
+  },
+  "重": {
+    "examples": [
+      { "sentence": "这个箱子很重，搬不动。", "sense": "本义：分量大；沉重，读 zhòng", "note": "对应义项 1" },
+      { "sentence": "他为人稳重，值得信赖。", "sense": "引申义：庄重；自重", "note": "对应义项 2" },
+      { "sentence": "山重水复疑无路。", "sense": "引申义：重叠；反复，读 chóng", "note": "对应义项 3" }
+    ],
+    "warning": "读 zhòng 表示沉重、重要；读 chóng 表示重复、重叠。",
+    "generated": false
+  },
+  "量": {
+    "examples": [
+      { "sentence": "请量一下这件衣服的尺寸。", "sense": "本义：称量；测量，读 liáng", "note": "对应义项 1" },
+      { "sentence": "他的酒量很好。", "sense": "引申义：容量；限度，读 liàng", "note": "对应义项 2" },
+      { "sentence": "质量比数量更重要。", "sense": "引申义：容量；限度，读 liàng", "note": "对应义项 2" }
+    ],
+    "warning": "读 liáng 表示测量；读 liàng 表示容量、数量、限度。",
+    "generated": false
+  }
+}
